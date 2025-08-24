@@ -218,7 +218,7 @@ Now let's add a feature that can score a normal frame (one without a spare or a 
 
 ### 6. Single strike frames
 
-- [ ] Add a test for scoring a single strike, and update `scoreFrame` to pass
+- [X] Add a test for scoring a single strike, and update `scoreFrame` to pass
   <details style="padding-left: 2em">
     <summary>More about scoring single strikes</summary>
     Because a strike uses the next 2 rolls, if the first is another strike (called a double), we'll need yet another frame. Let's tackle the double scenario later. For now, let's handle the single-strike scenario.
@@ -229,7 +229,7 @@ Now let's add a feature that can score a normal frame (one without a spare or a 
     ```
   </details>
 
-- [ ] Complete any refactoring, re-run the tests, and make a commit (again)
+- [X] Complete any refactoring, re-run the tests, and make a commit (again)
 
 ### 7. Double strike frames
 

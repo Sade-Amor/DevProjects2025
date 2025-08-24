@@ -113,7 +113,7 @@ Now, we will test our least complicated frame.
     Now our test is failing because it can't find the `scoreFrame` method. So let's add it.
   </details>
 
-- [ ] Add the `scoreFrame` method to `./score.js` and export it
+- [X] Add the `scoreFrame` method to `./score.js` and export it
   <details style="padding-left: 2em">
     <summary>More about the <code>scoreFrame</code> method</summary>
 
@@ -130,7 +130,7 @@ Now, we will test our least complicated frame.
     Now our test is failing because it returned the wrong value (`undefined`) instead of what it was expecting (`0`). So let's return what it wants.
   </details>
 
-- [ ] Cause `scoreFrame` to return the value expected by our test
+- [X] Cause `scoreFrame` to return the value expected by our test
   <details style="padding-left: 2em">
     <summary>More about the <code>scoreFrame</code> return value</summary>
 

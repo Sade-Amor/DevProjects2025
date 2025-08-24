@@ -1,4 +1,4 @@
-export { scoreFrame }
+export { scoreFrame, scoreFrames }
 
 function scoreFrame(frame) {
   // get score frame [1,2]
@@ -11,6 +11,19 @@ function scoreFrame(frame) {
   if (score === 10) {
     return 'Nice Spare! ' + score
   }
+
   return score
   // return 3
+}
+
+function scoreFrames(frames) {
+  if (frames.length >= 2) {
+    const first = frames[0][0]
+    const second = frames[1][0]
+
+    // Double strike
+    if (first === 10 && second === 10) {
+      return 'Double'
+    }
+  }
 }

@@ -233,7 +233,7 @@ Now let's add a feature that can score a normal frame (one without a spare or a 
 
 ### 7. Double strike frames
 
-- [ ] Add a test for scoring a **double** strike, and update `scoreFrame` to pass
+- [X] Add a test for scoring a **double** strike, and update `scoreFrame` to pass
   <details style="padding-left: 2em">
     <summary>More about scoring double strikes</summary>
     
@@ -245,7 +245,7 @@ Now let's add a feature that can score a normal frame (one without a spare or a 
     ```
   </details>
 
-- [ ] Complete any refactoring, re-run the tests, and make a commit (yet again)
+- [X] Complete any refactoring, re-run the tests, and make a commit (yet again)
   <details style="padding-left: 2em">
     <summary>Tips</summary>
 

@@ -144,7 +144,7 @@ Now, we will test our least complicated frame.
     Sweet! Our tests are passing again. Let's commit it.
   </details>
 
-- [ ] Commit our work
+- [X] Commit our work
   <details style="padding-left: 2em">
     <summary>More about committing</summary>
 
@@ -158,7 +158,7 @@ Now, we will test our least complicated frame.
 
 Now let's add a feature that can score a normal frame (one without a spare or a strike).
 
-- [ ] Write a test to score a normal frame
+- [X] Write a test to score a normal frame
   <details style="padding-left: 2em">
     <summary>More about the normal frame test</summary>
 

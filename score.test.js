@@ -19,3 +19,10 @@ test('scores a normal frame', () => {
   const actual = score.scoreFrame(frame)
   expect(actual).toBe(expected)
 })
+
+test('scores a spare frame', () => {
+  const frame = [5, 5]
+  const expected = 'Spare!'
+  const actual = score.scoreFrame(frame)
+  expect(actual).toBe(expected)
+})

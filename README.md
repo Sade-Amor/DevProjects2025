@@ -43,7 +43,7 @@ This kata aims to help you become familiar with test-first design, also commonly
     Run tests on the command line with `npm test` and celebrate if we're getting a passing test. Next, we will commit the working test.
   </details>
 
-- [ ] Commit our work
+- [X] Commit our work
   <details style="padding-left: 2em">
     <summary>More about committing</summary>
     
@@ -55,7 +55,7 @@ This kata aims to help you become familiar with test-first design, also commonly
 
 ### 2. Preparing to test frames
 
-- [ ] `require` a new file, `./score`, from `score.test.js`
+- [X] `require` a new file, `./score`, from `score.test.js`
   <details style="padding-left: 2em">
     <summary>More about requiring</summary>
 
@@ -175,7 +175,7 @@ Now let's add a feature that can score a normal frame (one without a spare or a 
     This new test is failing because we were expecting a `5` and `0` was returned. Apparently our `scoreFrame` method needs to do something more than `return 0`.
   </details>
 
-- [ ] Update the `scoreFrame` function to pass the test
+- [X] Update the `scoreFrame` function to pass the test
   <details style="padding-left: 2em">
     <summary>More about updating <code>scoreFrame</code></summary>
 
@@ -188,7 +188,7 @@ Now let's add a feature that can score a normal frame (one without a spare or a 
     But remember, the cycle is RED -> GREEN -> REFACTOR. Is there anything about our code that we could improve to make it more readable or DRY?
   </details>
 
-- [ ] Commit our work
+- [X] Commit our work
   <details style="padding-left: 2em">
     <summary>More about committing</summary>
 

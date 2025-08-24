@@ -202,7 +202,7 @@ Now let's add a feature that can score a normal frame (one without a spare or a 
 
 **From this point forward you will be writing the tests yourself!**
 
-- [ ] Add a test for scoring a spare, and update `scoreFrame` to pass
+- [X] Add a test for scoring a spare, and update `scoreFrame` to pass
   <details style="padding-left: 2em">
     <summary>More about scoring spares</summary>
     
@@ -214,7 +214,7 @@ Now let's add a feature that can score a normal frame (one without a spare or a 
     ```
   </details>
 
-- [ ] Complete any refactoring, re-run the tests, and make a commit
+- [X] Complete any refactoring, re-run the tests, and make a commit
 
 ### 6. Single strike frames
 

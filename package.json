@@ -1,0 +1,15 @@
+{
+  "name": "tdd-bowling-kata",
+  "type": "module",
+  "version": "0.1.0",
+  "description": "A kata for test-first design (aka TDD)",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "Dev Academy Aotearoa",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^0.33.0"
+  }
+}

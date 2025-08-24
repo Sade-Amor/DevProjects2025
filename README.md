@@ -73,7 +73,7 @@ This kata aims to help you become familiar with test-first design, also commonly
     Now you'll notice we are getting an error because it can't find the `score` reference (because it doesn't exist yet).
   </details>
 
-- [ ] Create `./score.js` which exports an empty object
+- [X] Create `./score.js` which exports an empty object
   <details style="padding-left: 2em">
     <summary>More about <code>./score.js</code></summary>
 
@@ -96,7 +96,7 @@ This kata aims to help you become familiar with test-first design, also commonly
 
 Now, we will test our least complicated frame.
 
-- [ ] Create a test for returning the score of a gutterball frame. It will fail
+- [X] Create a test for returning the score of a gutterball frame. It will fail
   <details style="padding-left: 2em">
     <summary>More about the gutterball test</summary>
 
